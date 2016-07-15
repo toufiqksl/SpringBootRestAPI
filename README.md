@@ -31,19 +31,6 @@ Like most Spring Getting Started guides, you can start from scratch and complete
 
 To start from scratch, move on to Build with Gradle.
 
-To skip the basics, do the following:
-
-Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/spring-guides/gs-rest-service.git
-cd into gs-rest-service/initial
-Jump ahead to Create a resource representation class.
-When you’re finished, you can check your results against the code in gs-rest-service/complete.
-
-Build with Gradle
-
-Build with Maven
-
-Build with your IDE
-
 Create a resource representation class
 
 Now that you’ve set up the project and build system, you can create your web service.
